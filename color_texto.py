@@ -1,4 +1,4 @@
-import machine
+#import machine
 
 # Definir códigos ANSI para colores
 RESET = "\x1B[0m"
@@ -13,4 +13,4 @@ print(GREEN + "Este texto es verde" + RESET)
 print(YELLOW + "Este texto es amarillo" + RESET)
 print(BLUE + "Este texto es azul" + RESET)
 # Imprimir texto normal
-print("hola mundo...")
+print("hola mundo*****...")
